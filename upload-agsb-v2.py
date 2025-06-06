@@ -36,7 +36,7 @@ USER_NAME = "williamyuan"         # 用户名
 UUID = "bf917132-719f-41f1-aca8-684c6f69e8fa"                     # UUID，留空则自动生成
 PORT = 49999                   # Vmess端口，留空或0则自动生成
 DOMAIN = "williamyuan.dpdns.org"                   # 域名，留空则自动获取
-CF_TOKEN = "cloudflared.exe service install eyJhIjoiNTY4OGNkM2E4YjFkMTc4OTQyZmQ0ODZjZTllNDk0MzAiLCJ0IjoiZTRlMzE5ZTgtOWRjZi00NGRjLTgxNjAtNmI0MmIxYjkxYzgwIiwicyI6IlkyRTFOelZsTVRZdE9XSXlOaTAwTnpFMkxXSXdaV1F0Wm1ZME1tWXhPV1JrWVRjeiJ9"                 # Cloudflare Token，留空则用Quick Tunnel
+CF_TOKEN = "eyJhIjoiNTY4OGNkM2E4YjFkMTc4OTQyZmQ0ODZjZTllNDk0MzAiLCJ0IjoiZTRlMzE5ZTgtOWRjZi00NGRjLTgxNjAtNmI0MmIxYjkxYzgwIiwicyI6IlkyRTFOelZsTVRZdE9XSXlOaTAwTnpFMkxXSXdaV1F0Wm1ZME1tWXhPV1JrWVRjeiJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
